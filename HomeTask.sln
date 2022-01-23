@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogueClockApp", "AnalogueClockApp\AnalogueClockApp.csproj", "{0CA8643B-F70C-459A-9C73-81CF347C700C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HierarchicalStructureApp", "HierarchicalStructureApp\HierarchicalStructureApp.csproj", "{8C95DB5C-FFE9-4FBA-B3D2-6E662F890766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA8643B-F70C-459A-9C73-81CF347C700C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA8643B-F70C-459A-9C73-81CF347C700C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA8643B-F70C-459A-9C73-81CF347C700C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA8643B-F70C-459A-9C73-81CF347C700C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C95DB5C-FFE9-4FBA-B3D2-6E662F890766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C95DB5C-FFE9-4FBA-B3D2-6E662F890766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C95DB5C-FFE9-4FBA-B3D2-6E662F890766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C95DB5C-FFE9-4FBA-B3D2-6E662F890766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19CACE2-E73E-475C-B7B9-8760E809DE67}
+	EndGlobalSection
+EndGlobal
